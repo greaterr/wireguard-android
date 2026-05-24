@@ -1,9 +1,9 @@
 [versions]
-agp = "9.1.0"
+agp = "9.1.1"
 
 [libraries]
 androidx-activity-ktx = "androidx.activity:activity-ktx:1.13.0"
-androidx-annotation = "androidx.annotation:annotation:1.9.1"
+androidx-annotation = "androidx.annotation:annotation:1.10.0"
 androidx-appcompat = "androidx.appcompat:appcompat:1.7.1"
 androidx-biometric = "androidx.biometric:biometric:1.1.0"
 androidx-collection = "androidx.collection:collection:1.6.0"
@@ -15,10 +15,10 @@ androidx-fragment-ktx = "androidx.fragment:fragment-ktx:1.8.9"
 androidx-lifecycle-runtime-ktx = "androidx.lifecycle:lifecycle-runtime-ktx:2.10.0"
 androidx-preference-ktx = "androidx.preference:preference-ktx:1.2.1"
 desugarJdkLibs = "com.android.tools:desugar_jdk_libs:2.1.5"
-google-material = "com.google.android.material:material:1.13.0"
+google-material = "com.google.android.material:material:1.14.0"
 jsr305 = "com.google.code.findbugs:jsr305:3.0.2"
 junit = "junit:junit:4.13.2"
-kotlinx-coroutines-android = "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.10.2"
+kotlinx-coroutines-android = "org.jetbrains.kotlinx:kotlinx-coroutines-android:1.11.0"
 zxing-android-embedded = "com.journeyapps:zxing-android-embedded:4.3.0"
 
 [plugins]
